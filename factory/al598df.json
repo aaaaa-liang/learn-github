@@ -1,0 +1,9 @@
+{
+	"name": "al598df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f9fac31-68c3-4bfa-afd4-9aa6b56f0a78",
+		"tenantId": "d57d32cc-c121-488f-b07b-dfe705680c71"
+	}
+}
